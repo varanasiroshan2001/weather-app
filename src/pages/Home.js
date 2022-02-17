@@ -4,7 +4,7 @@ import "./Home.css"
 import axios from "axios"
 import Modal from "@mui/base/ModalUnstyled"
 
-//images
+//image
 import nistLogo1 from "./img/nist-logo1.png"
 import nistLogo2 from "./img/nist-logo-2.png"
 import sunnyImg from "./img/sunny.svg"
