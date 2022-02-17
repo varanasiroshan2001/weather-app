@@ -13,7 +13,7 @@ The temperature record here exactly recorded from sensors and data is kept at Co
 todayhigh. When we click the each tile it pops up and gives all detailed detail of data with what it is, and its latest records of data from Azure Cosmo DB. Here, with the time stamp the records are shown here you can see the latest data has been taken presently today that is today itself 2022-02-17 at and the average of the 3 data amongst them is shown at the side. Then all this is kept in continuous development of the code to innovate more so we have kept all the things in sync with the GitHub triggers, DevOps CI/CD pipelines so that new code when committed it directly launches to production after our review.
 So more automation is there.
 
-The arduino code is also attached in the files...
+The arduino code is also attached in the files... in the WEATHER_STATION.ino  file
 
 Azure Services Involved --> Azure App Service, Azure Static Web Apps, Azure DevOps, Azure CosmoDB.
 
