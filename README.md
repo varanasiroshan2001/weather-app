@@ -16,6 +16,6 @@ So more automation is there.
 The arduino code is also attached in the files... in the WEATHER_STATION.ino  file
 
 Azure Services Involved --> Azure App Service, Azure Static Web Apps, Azure DevOps, Azure CosmoDB.
-
+The azure cosmo db database is codebased and is automated wth its managed service to link the data and sync the data recieved from the thingspeak API Iot platform to display on behalf of sensors and use for further analysis
 Complete Video Demo of the project --
 YouTube-Demo -- https://youtu.be/WjqBbUzbGF0
